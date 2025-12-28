@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a computer science student <br>I'm currently learning c,c++,python,data structure in c
+I'm a computer science student <br>I'm currently learning C, C++, Python, and data structures in C
 
 
 ## 🌐 Socials:
