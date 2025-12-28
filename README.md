@@ -3,8 +3,8 @@ I'm a computer science student<br>I'm currently learning C, C++, Python, and dat
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nithinm570) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mnithin570@gmail.com) [![LeetCode](img.shields.io)](https://leetcode.com/u/NITHIN100/)
-[![HackerRank](img.shields.io)](https://www.hackerrank.com/profile/mnithin570)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nithinm570) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mnithin570@gmail.com) [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866.svg?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/mnithin570) [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116.svg?logo=leetcode&logoColor=black)](https://leetcode.com/u/NITHIN100/)
+
 
 
 # 💻 Tech Stack:
