@@ -1,5 +1,13 @@
 # 💫 About Me:
-I'm a computer science student<br>I'm currently learning C, C++, Python, and data structures in C
+* 🎓 **CSE Student** with a strong foundation in core computer science
+* 💻 **Languages:** C, C++, Python
+* 🧠 Solved **150+ coding problems** to improve logic and debugging
+* 🛠 Built **10+ hands-on mini projects** focused on practical learning
+* ⚙️ **Python:** scripting, automation, rapid prototyping
+* 🔍 **C Programming:** memory management and system-level understanding
+* 📊 **Data Structures & Algorithms** implemented in C
+* 🌐 Learning **networking basics, cloud concepts, and troubleshooting**
+* 🚀 Curious about backend systems and how software works under the hood
 
 
 ## 🌐 Socials:
